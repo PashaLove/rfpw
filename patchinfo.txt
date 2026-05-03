@@ -35,7 +35,7 @@ DataTable\en-gb\NDMsgEvent.edf 58d7dd12a7c797b45e0bbda9807760aacd527574
 DataTable\en-gb\NDMsgMonster.edf 8c4746df3b158b5f443371881841bc4f3d839bc5
 DataTable\en-gb\NDQuest.edf 1cca5fc1b9d37ecde3aed42d7c6ec1d431b04b83
 DataTable\en-gb\NDSkillForce.edf 52401ada94c01d3851f92e56603a5afd5d160b36
-DataTable\en-gb\NDStore.edf 0055763530fdf1a83e1ecca88defae638e2072db
+DataTable\en-gb\NDStore.edf fefe85f50153254f81f5946a27e84d3d2bc2683c
 DataTable\en-gb\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-gb\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-gb\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
@@ -103,4 +103,4 @@ DataTable\ru-ru\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
 DataTable\ru-ru\UIHelp.edf c5a36b2392c096200d4d2ceb655df6c76c4e0a49
 DataTable\ru-ru\WORLDMAPDATA.DAT 09cb484f5dd2a80ed9f5be94c74eb861feec0e4e
 DataTable\SkillForce.edf aaa5f7c87f5b343919b5350cb9d31e488f7ec5ae
-DataTable\Store.edf 6bb95026bb4a1f2234d464b65d3581b523394b07
+DataTable\Store.edf a2ed710ebe283f74816cbb8bf8a91ddf40fec16d
