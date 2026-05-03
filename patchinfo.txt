@@ -1,2 +1,5 @@
+DataTable\en-gb\NDItem.edf f240fd4a21c59030ae9cd34b6cd53f8ea7644c75
 DataTable\en-gb\NDStore.edf fefe85f50153254f81f5946a27e84d3d2bc2683c
+DataTable\Item.edf 7c7091b275dbbfc76af32647a1380d2851fb3fd7
+DataTable\ItemCombine.edf 149a3a5f1e64e44e254b449eb6975e12eae8edb4
 DataTable\Store.edf a2ed710ebe283f74816cbb8bf8a91ddf40fec16d
