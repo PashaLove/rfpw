@@ -1,7 +1,7 @@
 DataTable\Character.edf a4ba6b805175d774139dad4b94dc3748d721ef09
 DataTable\en-gb\NDCharacter.edf 02e7f4156d1e4a8345646f65f67a2e044ae1a585
-DataTable\en-gb\NDItem.edf 68179386ed91b8e132e1c83370a34dcc881c23cf
+DataTable\en-gb\NDItem.edf 2af1ce66bcbadd8665c2bee60f3ccc0a497abbb6
 DataTable\en-gb\NDStore.edf f0f07febe7c768c6a975f5729d1c4bc095960201
-DataTable\Item.edf ba64b9366d4adf67ed20e7dca9e147dd23761e59
-DataTable\ItemCombine.edf d090d8ef769babb2451cd060242ea326cb80603b
+DataTable\Item.edf 4960aca1f171bf6d520a651088ecfd733af409ea
+DataTable\ItemCombine.edf 6bf1cd81fc45e88f11da40475e3886cd438f45fc
 DataTable\Store.edf 1de1a4c89017f1cc17fc6d9b1d6cdf79f475bdad
