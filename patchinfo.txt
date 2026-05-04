@@ -1,9 +1,9 @@
 DataTable\Character.edf 762d9063dbecd0845bb389ebcd022b09f99d4b93
 DataTable\en-gb\NDCharacter.edf c942bfbcc77959398658be668f6c779caf210edd
-DataTable\en-gb\NDItem.edf 59ddbb5cf1b15bffce0904d8a88789b5a5f708d8
+DataTable\en-gb\NDItem.edf 8bcd4515cc8fb1b04e7bd71f4f0eae54e67b2ea1
 DataTable\en-gb\NDSkillForce.edf be03676a84de053163cd0d8f9c2fbe82e06da184
 DataTable\en-gb\NDStore.edf f0f07febe7c768c6a975f5729d1c4bc095960201
-DataTable\Item.edf 2ba462d2c7a5dbdd1a5c763d3d3610744412dc35
+DataTable\Item.edf c82d3af5c6ff8566a7a1ea8c1ba713c6a33dbaa5
 DataTable\ItemCombine.edf 552264aacc8b1aee179f115684696bc310194a23
 DataTable\SkillForce.edf 135aaa81f1086c167dda29706b4b6569cc36f6c0
 DataTable\Store.edf 1de1a4c89017f1cc17fc6d9b1d6cdf79f475bdad
