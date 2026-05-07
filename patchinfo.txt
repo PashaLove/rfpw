@@ -1,6 +1,6 @@
-DataTable\en-gb\NDItem.edf 86f0b370569805e59c338b7d77fa2c058b3eed6c
+DataTable\en-gb\NDItem.edf 6669e683625be9fe6cec9e8c738621a8f2210a38
 DataTable\en-gb\NDSkillForce.edf 107bdce4793960c59dda0e3f879a6562d9fec9cd
 DataTable\en-gb\NDStore.edf 84fe101cf1aaa6b24cbd4d588df4e1561a094476
-DataTable\Item.edf c2cd0d458d69b134e74bdc9a7401a3b907d3d2ca
+DataTable\Item.edf 7b3c57ca667bd32e0be6a10e69b3f80d589855a0
 DataTable\SkillForce.edf dbf856e7dab8859532a51566d06e4396341b3d39
 DataTable\Store.edf b028f6088aab8c5da46f9254d400691b4f485568
