@@ -1,5 +1,5 @@
-DataTable\Character.edf 6b89eb3781b7116d3f1fcc516fd5306bf03bdddb
-DataTable\en-gb\NDCharacter.edf 321b63e2da4ae6bbf6c482f8984bbd27084f63fd
+DataTable\Character.edf c0dc5c2e10956e9da0469d51a1d254096cc0ae53
+DataTable\en-gb\NDCharacter.edf 2bf921c7ef9911384f7e88ed70e1d5f61873c419
 DataTable\en-gb\NDItem.edf b2ac84376363ac16f85aa6dda5e46904b5aa4b12
 DataTable\en-gb\NDItemCash.edf 23709d2f2a6511e8377cff574c617fca291c1bd7
 DataTable\en-gb\NDSkillForce.edf dff6d8ef5dd96415cc1637132b7b778c627c5c1f
