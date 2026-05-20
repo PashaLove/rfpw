@@ -1,10 +1,10 @@
 DataTable\Character.edf 54bd3cc8750fdd99a8ad946571d048fe4d0a69ae
 DataTable\en-gb\NDCharacter.edf 7636d12a618bfef501cc37737596ddac24dd32ff
-DataTable\en-gb\NDItem.edf 47671994b6002b6e4ff3b27472316f2265aabbc8
+DataTable\en-gb\NDItem.edf 749617536324dd6d0b81644760e5bd330d00eed5
 DataTable\en-gb\NDItemCash.edf 55243278baf3963fe3ac9fe9fbb98849fbddf805
 DataTable\en-gb\NDSkillForce.edf dff6d8ef5dd96415cc1637132b7b778c627c5c1f
 DataTable\en-gb\NDStore.edf 04b65437e41ba50b13cb41dbef67ec15cfd29503
-DataTable\Item.edf 0d0a4bb52cfe968830879d855b0ea874c99cf263
+DataTable\Item.edf e64daae2757960e39ff95bbc1be067c134a24bfb
 DataTable\ItemCash.edf eae6bec1feaace886eb0c26bc480ebe3bc90bb0b
 DataTable\ItemCombine.edf 9c43f667ae058e9e190a273cb606b277b36905cb
 DataTable\ItemTimer.edf 898b12e7169170118e5c42bb63edd552ef728063
