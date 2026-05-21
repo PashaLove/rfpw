@@ -1,4 +1,6 @@
 DataTable\Character.edf 54bd3cc8750fdd99a8ad946571d048fe4d0a69ae
+DataTable\en-gb\KeyMap.dat 207cc7f81403838148ed44e9d3f74eb8701c79b9
+DataTable\en-gb\KeyMap_NKM.dat 781b44b3243247755a8880bf6a98bf49da221122
 DataTable\en-gb\NDCharacter.edf 7636d12a618bfef501cc37737596ddac24dd32ff
 DataTable\en-gb\NDItem.edf 35f0fcfd060c6bda41ec8dda864cbbe1c6f97dec
 DataTable\en-gb\NDItemCash.edf 55243278baf3963fe3ac9fe9fbb98849fbddf805
