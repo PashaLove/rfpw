@@ -168,10 +168,10 @@ Character\Player\Ani\WILDBUL.RFS 79fd2efb9ffe1e509ee63cc3860d800de2498155
 Character\Player\Ani\WILDS.RFS 6998bdf6db361aa3e2e8ef7fc612ac6c364cd279
 Character\Player\Ani\WILDS2.RFS 0b04007bddb5343b7f099581101b329b116722b0
 Character\Player\desktop.ini 478562c2d677f0f33abf02af356db3776e3ce51c
-DataTable\Character.edf f861ef9fba4f4496f54ee6fdf4381f7d07543733
+DataTable\Character.edf 79e7a34be74ac9c24913495b0d5ec29c579d5037
 DataTable\en-gb\KeyMap.dat 207cc7f81403838148ed44e9d3f74eb8701c79b9
 DataTable\en-gb\KeyMap_NKM.dat 781b44b3243247755a8880bf6a98bf49da221122
-DataTable\en-gb\NDCharacter.edf 982cbab540b43b22a67452fffd135a564abebe85
+DataTable\en-gb\NDCharacter.edf 4973bc28581a3511f0963010db9c3c977fbaf492
 DataTable\en-gb\NDItem.edf eb061b240e33eb3f6603ff21f07d3de18263dcbc
 DataTable\en-gb\NDItemCash.edf 7d85465d1326953724d0cb18e9cfd0a7e7156ce4
 DataTable\en-gb\NDSkillForce.edf d1d491edceda35bfe0d907ba5a54e290fe5c17ed
