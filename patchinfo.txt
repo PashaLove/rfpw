@@ -171,7 +171,7 @@ Character\Player\desktop.ini 478562c2d677f0f33abf02af356db3776e3ce51c
 DataTable\Character.edf bdb8a3b5eb4bddcfc3e705853c19bb1d61266074
 DataTable\en-gb\NDCharacter.edf 6289c602c53358929d7c8f49aec402f2bbfe0173
 DataTable\en-gb\NDEventShip.edf 03799b37f17dcc3567db24acffad8abe99059bc4
-DataTable\en-gb\NDItem.edf f600a3e8dac6d0a2fb3165c4c631e44a9d14b855
+DataTable\en-gb\NDItem.edf 20cfb434210d019a68537f70c356f24560f5c6f8
 DataTable\en-gb\NDItemCash.edf d4603cee769698bfe8e5a242a8c7c0bf5bc5b06a
 DataTable\en-gb\NDLanguage.edf 52476d9f513e9e3248c6e316684f490f002f9c09
 DataTable\en-gb\NDMsgEvent.edf d23ed5ae7a6b2bc94be282105ec328eb5128e99c
@@ -180,7 +180,7 @@ DataTable\en-gb\NDQuest.edf 50f5b06138f5ebc416ceac091921776dd30a1788
 DataTable\en-gb\NDSkillForce.edf 53f73027e6965179ae9da6dedfa892ebfa24756b
 DataTable\en-gb\NDStore.edf dc9195d4017482f4b558f7cfbf1ae4850701bedc
 DataTable\EventShip.edf 227953df95b3831abe26c6b271adf80f98e161a3
-DataTable\Item.edf 069fa782c6157aafccb5f8ce68a411511b2dd7ba
+DataTable\Item.edf 3b6e9315d5d40c70118d889fc2f178007db6c2c6
 DataTable\ItemCash.edf 9ce3c2ff655679a6c7f9e094173fe16b3e944b1a
 DataTable\ItemCombine.edf adcd5f354405cc70cb3142660b8bf949aaf70862
 DataTable\ItemPremium.edf 8d81dc1c5c858a3ffcee8c582c493c9e491b0371
