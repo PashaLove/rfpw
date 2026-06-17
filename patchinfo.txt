@@ -168,10 +168,10 @@ Character\Player\Ani\WILDBUL.RFS 79fd2efb9ffe1e509ee63cc3860d800de2498155
 Character\Player\Ani\WILDS.RFS 6998bdf6db361aa3e2e8ef7fc612ac6c364cd279
 Character\Player\Ani\WILDS2.RFS 0b04007bddb5343b7f099581101b329b116722b0
 Character\Player\desktop.ini 478562c2d677f0f33abf02af356db3776e3ce51c
-DataTable\Character.edf bdb8a3b5eb4bddcfc3e705853c19bb1d61266074
-DataTable\en-gb\NDCharacter.edf 6289c602c53358929d7c8f49aec402f2bbfe0173
+DataTable\Character.edf d9201c3e322706c2ac50e227bc2b02ca53508d43
+DataTable\en-gb\NDCharacter.edf 5b30f687e845a1a72ee69bfa226d182f9972d9ff
 DataTable\en-gb\NDEventShip.edf 03799b37f17dcc3567db24acffad8abe99059bc4
-DataTable\en-gb\NDItem.edf d27c1902fd334e78139c2569ba0e072168c55539
+DataTable\en-gb\NDItem.edf c52dce66d1d3a633a9c6664efbf018f871236b29
 DataTable\en-gb\NDItemCash.edf 1244faee84461bf1bae160c46f47fcdaf7572f6f
 DataTable\en-gb\NDLanguage.edf 52476d9f513e9e3248c6e316684f490f002f9c09
 DataTable\en-gb\NDMsgEvent.edf d23ed5ae7a6b2bc94be282105ec328eb5128e99c
@@ -180,7 +180,7 @@ DataTable\en-gb\NDQuest.edf 50f5b06138f5ebc416ceac091921776dd30a1788
 DataTable\en-gb\NDSkillForce.edf 53f73027e6965179ae9da6dedfa892ebfa24756b
 DataTable\en-gb\NDStore.edf 833e21bdae3abcb611e8bcd86ad54b54ae28a2a8
 DataTable\EventShip.edf 227953df95b3831abe26c6b271adf80f98e161a3
-DataTable\Item.edf 1f76e34da3a56438393d918d87e89448ed3737aa
+DataTable\Item.edf 5fdb9c7ce3f4d33ff71cf6be3033507d59f64a4b
 DataTable\ItemCash.edf 8eb53da58a5d1921db0ce755e36aca9cd0d11e5f
 DataTable\ItemCombine.edf 105924e5d9745b9628e7225b4545c5bb39b42e5b
 DataTable\ItemPremium.edf 8d81dc1c5c858a3ffcee8c582c493c9e491b0371
