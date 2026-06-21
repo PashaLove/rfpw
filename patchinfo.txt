@@ -178,7 +178,7 @@ DataTable\en-gb\NDMsgEvent.edf d23ed5ae7a6b2bc94be282105ec328eb5128e99c
 DataTable\en-gb\NDMsgMonster.edf fc50d522e48ba60af4f167dafe06021a54ac9e4f
 DataTable\en-gb\NDQuest.edf 50f5b06138f5ebc416ceac091921776dd30a1788
 DataTable\en-gb\NDSkillForce.edf 53f73027e6965179ae9da6dedfa892ebfa24756b
-DataTable\en-gb\NDStore.edf 699090a844b7347085528acae6690039c57f688a
+DataTable\en-gb\NDStore.edf 89486fbf967353a635b00833aafaaa4600e29d01
 DataTable\EventShip.edf 227953df95b3831abe26c6b271adf80f98e161a3
 DataTable\Item.edf 298546b71abd23312faba271a9a11f46bf3d15f4
 DataTable\ItemCash.edf 8eb53da58a5d1921db0ce755e36aca9cd0d11e5f
@@ -192,7 +192,7 @@ DataTable\PlayerCharacter.edf 2051f2cdf6939044a1a80362bcce6ccdb4d61c61
 DataTable\Quest.edf d9f66185370226f7935199312a83214b9c6265df
 DataTable\Resource.edf ce72f2b3b5b10efc9456ce85dd58ff77ab528e81
 DataTable\SkillForce.edf 2c6fd584146cdc484616970b34e72c7066c18a5f
-DataTable\Store.edf f882b66c565a05a989719fb5d30a3446d334ff6f
+DataTable\Store.edf be76c875cde107e9a1afbf948b1e4010caf81335
 SpriteImage\common\common.spr ff3aa4c25b893d7b8a0edd14b4ed16fd8e7a8dc5
 SpriteImage\en-gb\CashShop.spr 1af56df28170ada40643b84ca30aab3089cc4705
 SpriteImage\en-gb\common.spr ff3aa4c25b893d7b8a0edd14b4ed16fd8e7a8dc5
