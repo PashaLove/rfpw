@@ -169,8 +169,8 @@ Character\Player\Ani\WILDS.RFS 6998bdf6db361aa3e2e8ef7fc612ac6c364cd279
 Character\Player\Ani\WILDS2.RFS 0b04007bddb5343b7f099581101b329b116722b0
 Character\Player\desktop.ini 478562c2d677f0f33abf02af356db3776e3ce51c
 d3d9mkx.dll c8ca866e16abcb9e05b60df0a75219e5858ee9d0
-DataTable\Character.edf 3b3515bcf41ac0a0129192f31406d6fe4cf3eedc
-DataTable\en-gb\NDCharacter.edf b66ece65ccad400d0e7e98b3ad3969388311b8ce
+DataTable\Character.edf 4866995c2dab3e712182b3c5d852761bdb4eea4a
+DataTable\en-gb\NDCharacter.edf a46dc97554ab0b22b9543904149f661c577e9b3b
 DataTable\en-gb\NDEventShip.edf 03799b37f17dcc3567db24acffad8abe99059bc4
 DataTable\en-gb\NDItem.edf 1909cc5e4d6c2db105d89db7d9b9cc047a2f9561
 DataTable\en-gb\NDItemCash.edf 1244faee84461bf1bae160c46f47fcdaf7572f6f
