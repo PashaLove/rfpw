@@ -194,11 +194,6 @@ DataTable\Quest.edf d9f66185370226f7935199312a83214b9c6265df
 DataTable\Resource.edf ce72f2b3b5b10efc9456ce85dd58ff77ab528e81
 DataTable\SkillForce.edf 2c6fd584146cdc484616970b34e72c7066c18a5f
 DataTable\Store.edf 5be0f525f5597409a9d867e605bc77fcca332274
-RF Premium - WAR\d3d9mkx.dll c8ca866e16abcb9e05b60df0a75219e5858ee9d0
-RF Premium - WAR\RF_Online.bin 5c83378cdc1c830a2152bb60180fb6cec5ea2b38
-RF Premium - WAR\Snooper.dll 06b8f2ea62e418bfd5ce681ee1cb7be87b1da18d
-RF_Online.bin 5c83378cdc1c830a2152bb60180fb6cec5ea2b38
-Snooper.dll 06b8f2ea62e418bfd5ce681ee1cb7be87b1da18d
 SpriteImage\common\common.spr ff3aa4c25b893d7b8a0edd14b4ed16fd8e7a8dc5
 SpriteImage\en-gb\CashShop.spr 1af56df28170ada40643b84ca30aab3089cc4705
 SpriteImage\en-gb\common.spr ff3aa4c25b893d7b8a0edd14b4ed16fd8e7a8dc5
