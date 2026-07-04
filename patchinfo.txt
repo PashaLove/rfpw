@@ -2,7 +2,7 @@ d3d9mkx.dll c8ca866e16abcb9e05b60df0a75219e5858ee9d0
 DataTable\Character.edf d773025f7fc00123cc0a1bf0239fa31a4e9c4888
 DataTable\en-gb\NDCharacter.edf 8c175fce3fcd95d6447fb6df2b4652eb621d8acd
 DataTable\en-gb\NDEventShip.edf c6bb6b37f9ef5212ed8e7dd9682c9d4a6f4275f0
-DataTable\en-gb\NDItem.edf 71a5da35a2d27ffef9d5da68633e54acade3180b
+DataTable\en-gb\NDItem.edf c7597a5bdfc6c7b5cf676212f617283c1e36584a
 DataTable\en-gb\NDItemCash.edf 2244758df820e1b20de9bb1c5aaa5ab9b3206be9
 DataTable\en-gb\NDLanguage.edf 61fd2ee84683130928d284c13337b688063fd9de
 DataTable\en-gb\NDMap.edf 22f856a8530fccfcfddc34fbbdf7887d4945475a
@@ -10,9 +10,9 @@ DataTable\en-gb\NDMsgEvent.edf 70f52ddccf24f9db902112efb6515544d44290d1
 DataTable\en-gb\NDMsgMonster.edf e8e846ad5589799fba48be221e6802c56e248c59
 DataTable\en-gb\NDQuest.edf 79d16815d59d001ff7514863c2bd90f53f8ef8ab
 DataTable\en-gb\NDSkillForce.edf f26e66d522a54fda0f2c0fa246392b2d2de20fd7
-DataTable\en-gb\NDStore.edf 0f332c86d83a5422342be4a95a2d59a61a7f9d13
+DataTable\en-gb\NDStore.edf 3d54c531f02a854b59b1da69816d995d3aa78252
 DataTable\EventShip.edf ca0689d103d8011521e5d350d5dd398054a43fe9
-DataTable\Item.edf 598fe456db0dc8672a9016948696dcaae18dda34
+DataTable\Item.edf 1593f0e6c191bf8d5d8343bd97f295b4437992d7
 DataTable\ItemCash.edf 90f41caaff7f7e7ccb00aa0c39f857ec81e6d4de
 DataTable\ItemCombine.edf 6374e0c185976c303146f3c5a4974ea9d64bfdd1
 DataTable\ItemPremium.edf a837b31a4dc2d0e62d3e64352383d1c86fa4c4d7
@@ -24,7 +24,7 @@ DataTable\PlayerCharacter.edf 027b5fd7cbff97db18b3a0b2951488b5a9e8821f
 DataTable\Quest.edf 5b07365bd84838a52357df448b08de830cd3b6bd
 DataTable\Resource.edf 9e9bd95761f150f5a3234db5781bd1e34bd278ba
 DataTable\SkillForce.edf 7d27a4ad30b8f3c089e5479a8196796ddcc35d8a
-DataTable\Store.edf 4eb39c9584a720f77dab297d48c1007b710956a5
+DataTable\Store.edf 0caa6fe957ef92bf5d8631d3e6c859f839076bd1
 RF_Online.bin 5c83378cdc1c830a2152bb60180fb6cec5ea2b38
 Snooper.dll 06b8f2ea62e418bfd5ce681ee1cb7be87b1da18d
 SpriteImage\common\common.spr ff3aa4c25b893d7b8a0edd14b4ed16fd8e7a8dc5
