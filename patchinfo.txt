@@ -2,7 +2,7 @@ d3d9mkx.dll c8ca866e16abcb9e05b60df0a75219e5858ee9d0
 DataTable\Character.edf 639aca14fb299692237547ecc6862471155622a9
 DataTable\en-gb\NDCharacter.edf 3711e41b7a3d80eb066ed0496247d3a0a9c4baac
 DataTable\en-gb\NDEventShip.edf 922858e5af3f9b90459b29afc57d1f9330488e30
-DataTable\en-gb\NDItem.edf 65fae2c83c9756682c1710dd003e4a3bb467cbf2
+DataTable\en-gb\NDItem.edf eec20dd9a7e02c6abf234b22fe1e659bad889c87
 DataTable\en-gb\NDItemCash.edf 946107adaff873b07334615b1efb8c107c4f60f6
 DataTable\en-gb\NDLanguage.edf 5fd7a497ae37b24f91fd2006d32a11930b50d9ee
 DataTable\en-gb\NDMap.edf 22f856a8530fccfcfddc34fbbdf7887d4945475a
@@ -12,7 +12,7 @@ DataTable\en-gb\NDQuest.edf 166d8a741d92e6a96f33c009954acb3f442867ff
 DataTable\en-gb\NDSkillForce.edf ac2b34e2268a430dd0648461ad63441dfed1098e
 DataTable\en-gb\NDStore.edf 08a2ffc48ea14984330df9682a3161ab5805adcf
 DataTable\EventShip.edf 5bc5807c4e7bdcbb34cb4946c1d2c89c03af4dc6
-DataTable\Item.edf e744395fbdcf229dcf4ff2ef4781c4ee2aae5ec0
+DataTable\Item.edf d42943711aa255ecf4c85e734304b46829606df0
 DataTable\ItemCash.edf 73965dd807d7bda3a3baa8eeafa1f4129880a1a9
 DataTable\ItemCombine.edf 3c69a5f21c687796ef40d19d949aa54ed77c2300
 DataTable\ItemPremium.edf ebf369018a09bfa8f61eb5580b572bf3588f4d67
@@ -30,7 +30,7 @@ Snooper.dll 06b8f2ea62e418bfd5ce681ee1cb7be87b1da18d
 SpriteImage\common\common.spr fab1ddf6461f70586780ea2bf422cf1faee2d678
 SpriteImage\en-gb\CashShop.spr 1af56df28170ada40643b84ca30aab3089cc4705
 SpriteImage\en-gb\common.spr fab1ddf6461f70586780ea2bf422cf1faee2d678
-SpriteImage\en-gb\item.spr 4757c237da9697917c509299e932ce6119b331d4
+SpriteImage\en-gb\item.spr 18f4f16f8c526c55a6ff69b4882a4ac32bdb9af8
 SpriteImage\en-gb\itemupgrade.spr d4a4f33fe68a4b242be0a107a4d2588302b8dbd2
 SpriteImage\en-gb\loading.spr 7cb133ac65567e590a5598bd4833d72f4523d56a
 SpriteImage\en-gb\login.spr afae6b129c8c3e61e62f7fd13ac33d167b6dece2
