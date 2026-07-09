@@ -30,7 +30,7 @@ Snooper.dll 06b8f2ea62e418bfd5ce681ee1cb7be87b1da18d
 SpriteImage\common\common.spr fab1ddf6461f70586780ea2bf422cf1faee2d678
 SpriteImage\en-gb\CashShop.spr 1af56df28170ada40643b84ca30aab3089cc4705
 SpriteImage\en-gb\common.spr fab1ddf6461f70586780ea2bf422cf1faee2d678
-SpriteImage\en-gb\item.spr 18f4f16f8c526c55a6ff69b4882a4ac32bdb9af8
+SpriteImage\en-gb\item.spr 47cb9f0dede996523af4e4c0c3222dab2219787b
 SpriteImage\en-gb\itemupgrade.spr d4a4f33fe68a4b242be0a107a4d2588302b8dbd2
 SpriteImage\en-gb\loading.spr 7cb133ac65567e590a5598bd4833d72f4523d56a
 SpriteImage\en-gb\login.spr afae6b129c8c3e61e62f7fd13ac33d167b6dece2
