@@ -28,15 +28,15 @@ DataTable\en-gb\LauncherMessage.ini a483b3b11be06b24e7fc29ae3fba9cb2801a8b4f
 DataTable\en-gb\MAPDATA.DAT 0d08fe290ea110e5b341dc6926fb7ce806b6a722
 DataTable\en-gb\NDCharacter.edf 9233a0a2f33064a26d4e26e84577540420a457ba
 DataTable\en-gb\NDEventShip.edf 5c963aee90daf62c0412fc9343b7b3588fb9af13
-DataTable\en-gb\NDItem.edf 54eb891512ab7fac24b63075f73f6fca0908576c
-DataTable\en-gb\NDItemCash.edf be888b08431ec4824274a9dceea8ac8ed8efdb75
+DataTable\en-gb\NDItem.edf 0b9dd2ec9a10b53019d1ada56ced5dd4896b05e3
+DataTable\en-gb\NDItemCash.edf d68b45fd34e974dd823d2417d9c92c921f50c7b0
 DataTable\en-gb\NDLanguage.edf 4aa4f0ec540c7ffe7724b28f8373d0aa98290615
 DataTable\en-gb\NDMap.edf ed553d4590a5aeede65c966fc3506263ce88cfff
 DataTable\en-gb\NDMsgEvent.edf 8836bbde95aa6e89e1aefde1cb71e8ab3af97d9a
 DataTable\en-gb\NDMsgMonster.edf 82e6153f291bd036e65314e999863f9a13cef4f4
 DataTable\en-gb\NDQuest.edf ede51692442a5c12abe385ea25250d2863677487
 DataTable\en-gb\NDSkillForce.edf 7514e1caf2182950b7dda33112b9fd2bf90c9030
-DataTable\en-gb\NDStore.edf fc8fde48bd10d319ee159a2d48f3ba8eb0517d47
+DataTable\en-gb\NDStore.edf e0420ecf05fad12e04f6f9892a333ee84b1e2058
 DataTable\en-gb\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-gb\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-gb\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
@@ -44,8 +44,8 @@ DataTable\en-gb\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
 DataTable\en-gb\WorldMapData.dat 60fdead156b3ef91da31ff0f5e44dc79554a3bfa
 DataTable\EventShip.edf f4d97c6d15e0728e320f666694971e4d0bdf47b0
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
-DataTable\Item.edf 71ac91076f76bfd58a80130e5607895c2e79e091
-DataTable\ItemCash.edf 77ff183b011f37db81e6295540fcbe7c12a72d8e
+DataTable\Item.edf be68fff4bbc469c828823dd849130096ee499e5c
+DataTable\ItemCash.edf 0a092785b08a05009e58ad426da80d7b4c0d5180
 DataTable\ItemCombine.edf 47256c61d5d6b86d75f0e2edf9622435cf9575e8
 DataTable\ItemPremium.edf 7436071139ffeb6561cbf98d3ea3479b75e691c4
 DataTable\ItemSetEffect.edf 5efaa501bd08048079dbfff7082196b160cd2430
@@ -98,7 +98,7 @@ DataTable\ru-ru\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
 DataTable\ru-ru\UIHelp.edf c5a36b2392c096200d4d2ceb655df6c76c4e0a49
 DataTable\ru-ru\WORLDMAPDATA.DAT 09cb484f5dd2a80ed9f5be94c74eb861feec0e4e
 DataTable\SkillForce.edf 25b76e3a527a982afef23a1841ae68e638f98a5e
-DataTable\Store.edf 3bbc97f2c3394aa37c310b1b7069f6d6d45e04b8
+DataTable\Store.edf 1a2af44ca402123ee7508cb4bfaecd25f0a0a043
 RF_Online.bin 5c83378cdc1c830a2152bb60180fb6cec5ea2b38
 Snooper.dll 06b8f2ea62e418bfd5ce681ee1cb7be87b1da18d
 SpriteImage\common\centralmod.spr ef767f784cf5fbc69d76a7c9c1b959781e04e16f
@@ -348,7 +348,7 @@ SpriteImage\common\worldmap\map1_2.spr d929bce0476f11b1fdd7b0877cac9cfe91dc400f
 SpriteImage\common.spr 8af88b23750ef730819c6f5d2ff38b8e11efc66d
 SpriteImage\en-gb\CashShop.spr b6858e1315bc03949432809a0f13c0c6cff2304b
 SpriteImage\en-gb\common.spr 5f236b643f3f1bee91d7cbe2bf0ca460cfefe83b
-SpriteImage\en-gb\item.spr 1d3ca083e1a78bb3821a529c5e84208a8bd1762a
+SpriteImage\en-gb\item.spr b150c5a0fe4c5acb165c1922a1c96ec2aa6d5eeb
 SpriteImage\en-gb\itemupgrade.spr 86f3ca26690c731040aa70eace579a1a34615434
 SpriteImage\en-gb\Launcher\agree_background.bmp 9eda91133f0df27e0be7726479c9a00c5ac8768c
 SpriteImage\en-gb\Launcher\basebackground.bmp 1c871145ffd447a471084e795bdfce531bb22159
@@ -439,7 +439,7 @@ SpriteImage\en-gb\login.spr 75541505a4858bda51ec16eff173b8b6ef680309
 SpriteImage\en-gb\owndev.spr b77b72034ebceeb5e3b9855c771220ac0809ba99
 SpriteImage\en-gb\season_pass.spr c57329f592e4d85d92b56e4985478dad1e5f0ed7
 SpriteImage\en-gb\transmogrification.spr e1dfcf66aefef903bd7c6d4b69bdbeefae8d301c
-SpriteImage\item.spr 00cb799cd98e4ef1b5087a4cfab7df1df7a26f75
+SpriteImage\item.spr b150c5a0fe4c5acb165c1922a1c96ec2aa6d5eeb
 SpriteImage\ru-ru\CashShop.spr b6858e1315bc03949432809a0f13c0c6cff2304b
 SpriteImage\ru-ru\common.spr 5f236b643f3f1bee91d7cbe2bf0ca460cfefe83b
 SpriteImage\ru-ru\itemupgrade.spr 86f3ca26690c731040aa70eace579a1a34615434
