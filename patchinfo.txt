@@ -29,7 +29,7 @@ DataTable\en-gb\MAPDATA.DAT 0d08fe290ea110e5b341dc6926fb7ce806b6a722
 DataTable\en-gb\NDCharacter.edf 9233a0a2f33064a26d4e26e84577540420a457ba
 DataTable\en-gb\NDEventShip.edf 5c963aee90daf62c0412fc9343b7b3588fb9af13
 DataTable\en-gb\NDItem.edf e5808417d03c2fcc02da3d6ba4c778f6081d6606
-DataTable\en-gb\NDItemCash.edf 6108a40fbec117b4b1b0af3019cc451ec3a6bf2d
+DataTable\en-gb\NDItemCash.edf 4b75eba3790c6403063797ebe69c1926f5c383c1
 DataTable\en-gb\NDLanguage.edf 4aa4f0ec540c7ffe7724b28f8373d0aa98290615
 DataTable\en-gb\NDMap.edf ed553d4590a5aeede65c966fc3506263ce88cfff
 DataTable\en-gb\NDMsgEvent.edf 8836bbde95aa6e89e1aefde1cb71e8ab3af97d9a
@@ -45,7 +45,7 @@ DataTable\en-gb\WorldMapData.dat 60fdead156b3ef91da31ff0f5e44dc79554a3bfa
 DataTable\EventShip.edf f4d97c6d15e0728e320f666694971e4d0bdf47b0
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
 DataTable\Item.edf 247d4ba92320253756ac5a4faa35f00f0b8a311d
-DataTable\ItemCash.edf 92007f072ea744e1e6f4ec042ac50b67d9ce3dd6
+DataTable\ItemCash.edf 4166ca143c558db46d7738018176a9b705645a7f
 DataTable\ItemCombine.edf abd79df1729866687ebac099bab3427262d726fb
 DataTable\ItemPremium.edf 7436071139ffeb6561cbf98d3ea3479b75e691c4
 DataTable\ItemSetEffect.edf 5efaa501bd08048079dbfff7082196b160cd2430
