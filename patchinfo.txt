@@ -1,5 +1,5 @@
 d3d9mkx.dll c8ca866e16abcb9e05b60df0a75219e5858ee9d0
-DataTable\Character.edf dc793fb59baff768b9e0038877d9bce6ee7e217b
+DataTable\Character.edf 4602983b89698324fa0b57296bb1b740f1becc9b
 DataTable\en-gb\ar.scp 6d77484c3578bd30b37ad156d59d166cc4550bb1
 DataTable\en-gb\as.scp 24827424dc1342642ef2c433bad7f161fa204b17
 DataTable\en-gb\Aua.dic 065e109f27683752ccae14fcb0a1b8f7c039f704
@@ -26,9 +26,9 @@ DataTable\en-gb\KeyMap.dat 207cc7f81403838148ed44e9d3f74eb8701c79b9
 DataTable\en-gb\KeyMap_NKM.dat 5661159bab077c921886a8028bb40141b2db006d
 DataTable\en-gb\LauncherMessage.ini a483b3b11be06b24e7fc29ae3fba9cb2801a8b4f
 DataTable\en-gb\MAPDATA.DAT 0d08fe290ea110e5b341dc6926fb7ce806b6a722
-DataTable\en-gb\NDCharacter.edf e81749a6fb3d10a04b3cd2d4de17c4f4cd40cc8e
+DataTable\en-gb\NDCharacter.edf fe02ce99f454ece2961a8ee25df00a864854b9f3
 DataTable\en-gb\NDEventShip.edf 5c963aee90daf62c0412fc9343b7b3588fb9af13
-DataTable\en-gb\NDItem.edf 82d09c760963b99e0366ad5929d540f5a0e7c3b9
+DataTable\en-gb\NDItem.edf 3ec492ce8328d27f91434801c9e96ed36743be77
 DataTable\en-gb\NDItemCash.edf 4b75eba3790c6403063797ebe69c1926f5c383c1
 DataTable\en-gb\NDLanguage.edf 4aa4f0ec540c7ffe7724b28f8373d0aa98290615
 DataTable\en-gb\NDMap.edf ed553d4590a5aeede65c966fc3506263ce88cfff
@@ -44,11 +44,11 @@ DataTable\en-gb\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
 DataTable\en-gb\WorldMapData.dat 60fdead156b3ef91da31ff0f5e44dc79554a3bfa
 DataTable\EventShip.edf f4d97c6d15e0728e320f666694971e4d0bdf47b0
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
-DataTable\Item.edf e91c3f4021fda61bcb2b65d80b8518ffff43862d
+DataTable\Item.edf 6e2851b6ccdac3b3bf8873339bf1baf5edaddf29
 DataTable\ItemCash.edf 4166ca143c558db46d7738018176a9b705645a7f
 DataTable\ItemCombine.edf 1a46211a79815f76bdf4995726375e4643d92edf
 DataTable\ItemPremium.edf 7436071139ffeb6561cbf98d3ea3479b75e691c4
-DataTable\ItemSetEffect.edf 5efaa501bd08048079dbfff7082196b160cd2430
+DataTable\ItemSetEffect.edf e814bc918c2e9d2e27f08374743200c143008876
 DataTable\ItemTimer.edf 924c270dd0f64569605914987cae6e8cf9e755b5
 DataTable\Map.edf 23332282a597a06366e7f7cba65d7cbda9025f99
 DataTable\MsgEvent.edf 0f1f803f6406b6ec98a2f92962ca3b93157f59ac
