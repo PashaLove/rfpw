@@ -23,7 +23,7 @@ DataTable\en-gb\GameData.edf 7d2ef0c06489bfe5d511610ec7d469882c98e1fd
 DataTable\en-gb\Hint.edf 74819598b41b3e0e897b439d06d30e00ab8bb4d8
 DataTable\en-gb\Iua.dic 05077743cbd0d8a56c84656963d145e0a795d333
 DataTable\en-gb\KeyMap.dat 207cc7f81403838148ed44e9d3f74eb8701c79b9
-DataTable\en-gb\KeyMap_NKM.dat 5661159bab077c921886a8028bb40141b2db006d
+DataTable\en-gb\KeyMap_NKM.dat 781b44b3243247755a8880bf6a98bf49da221122
 DataTable\en-gb\LauncherMessage.ini a483b3b11be06b24e7fc29ae3fba9cb2801a8b4f
 DataTable\en-gb\MAPDATA.DAT 0d08fe290ea110e5b341dc6926fb7ce806b6a722
 DataTable\en-gb\NDCharacter.edf e80ce1d6e9dcbd0e1506e32b3c0957c623ff654a
@@ -50,6 +50,8 @@ DataTable\ItemCombine.edf 0d41de8aeba83c8b88ba4e7ae278e3d9b36879ee
 DataTable\ItemPremium.edf 7436071139ffeb6561cbf98d3ea3479b75e691c4
 DataTable\ItemSetEffect.edf e814bc918c2e9d2e27f08374743200c143008876
 DataTable\ItemTimer.edf c868ac25136f5bd9cb053810b493e4b4c483d339
+DataTable\KeyMap.dat 207cc7f81403838148ed44e9d3f74eb8701c79b9
+DataTable\KeyMap_NKM.dat 781b44b3243247755a8880bf6a98bf49da221122
 DataTable\Map.edf 23332282a597a06366e7f7cba65d7cbda9025f99
 DataTable\MsgEvent.edf 0f1f803f6406b6ec98a2f92962ca3b93157f59ac
 DataTable\PlayerCharacter.edf e99d7feb31388436e08637017d83b41650b8c8f5
