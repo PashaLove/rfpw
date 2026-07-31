@@ -350,7 +350,7 @@ SpriteImage\common\worldmap\map1_2.spr d929bce0476f11b1fdd7b0877cac9cfe91dc400f
 SpriteImage\common.spr 8af88b23750ef730819c6f5d2ff38b8e11efc66d
 SpriteImage\en-gb\CashShop.spr b6858e1315bc03949432809a0f13c0c6cff2304b
 SpriteImage\en-gb\common.spr 5f236b643f3f1bee91d7cbe2bf0ca460cfefe83b
-SpriteImage\en-gb\item.spr 5c1c5b288136ca53b1cfa765c1c9690f2e115c06
+SpriteImage\en-gb\item.spr a04afb0ad2d0990ff0a55661de97f7596e7ee2d2
 SpriteImage\en-gb\itemupgrade.spr 86f3ca26690c731040aa70eace579a1a34615434
 SpriteImage\en-gb\Launcher\agree_background.bmp 9eda91133f0df27e0be7726479c9a00c5ac8768c
 SpriteImage\en-gb\Launcher\basebackground.bmp 1c871145ffd447a471084e795bdfce531bb22159
