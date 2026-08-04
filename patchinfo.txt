@@ -28,14 +28,14 @@ DataTable\en-gb\LauncherMessage.ini a483b3b11be06b24e7fc29ae3fba9cb2801a8b4f
 DataTable\en-gb\MAPDATA.DAT 0d08fe290ea110e5b341dc6926fb7ce806b6a722
 DataTable\en-gb\NDCharacter.edf 05c0cc69f6bc1c986128483a7e0277f2756f0ee5
 DataTable\en-gb\NDEventShip.edf af522824fcab6fdaab659fcbc1f443ca8550c44f
-DataTable\en-gb\NDItem.edf 7c8896e4d14f80e11297233e5d14f804ea4757bc
+DataTable\en-gb\NDItem.edf 67284dc536cd921b69f9596b868710e2ab80f472
 DataTable\en-gb\NDItemCash.edf 124a967691b53e11efdaac7a9b6843a74d30e0e7
 DataTable\en-gb\NDLanguage.edf 99abb196c694b8eeb8ac9a649bb0aaae466a58ee
 DataTable\en-gb\NDMap.edf 9c5b7873f9ffdc88c345032ddaec6082311c876e
 DataTable\en-gb\NDMsgEvent.edf 6607020bf7f3d8a6c7f3ecf383ff9027d7ba4d7f
 DataTable\en-gb\NDMsgMonster.edf 3964610b1dcb3e81ba26d9ff626232f1b9a3ff26
 DataTable\en-gb\NDQuest.edf 7db47477535ffd28624aa4ce2c6602a4c1c34c2a
-DataTable\en-gb\NDSkillForce.edf 9fc70e73f657ea450700c4d942a7be7d7f728f9e
+DataTable\en-gb\NDSkillForce.edf 5c544aa16797aaa8bcfdce60d7d8c656f9d675f7
 DataTable\en-gb\NDStore.edf a5c507499986d7aca5c39cdc117820c876d72aae
 DataTable\en-gb\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-gb\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
@@ -44,7 +44,7 @@ DataTable\en-gb\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
 DataTable\en-gb\WorldMapData.dat 60fdead156b3ef91da31ff0f5e44dc79554a3bfa
 DataTable\EventShip.edf 229fa78d2333b2ae16c4cf6f205554e23053f23e
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
-DataTable\Item.edf 82a7fb52e7ff040a690685d463bba800e14cf876
+DataTable\Item.edf 9e9f1a679e070cb21662ebd38d860b46e60c90fd
 DataTable\ItemCash.edf d5c9337d7b047af2c3347918165afdbc0e24666a
 DataTable\ItemCombine.edf 6bdcff924718ff1c980cd0a1cbb80cfc0c192a1f
 DataTable\ItemPremium.edf 1544736bf24217cec92f6b48a581776a19371ca3
@@ -99,7 +99,7 @@ DataTable\ru-ru\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\ru-ru\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
 DataTable\ru-ru\UIHelp.edf c5a36b2392c096200d4d2ceb655df6c76c4e0a49
 DataTable\ru-ru\WORLDMAPDATA.DAT 09cb484f5dd2a80ed9f5be94c74eb861feec0e4e
-DataTable\SkillForce.edf f0d78cfa7b46c0d122cac673f43cdfcd9fcb0823
+DataTable\SkillForce.edf 61c904cd5451880a639af55811eac686eb8654b7
 DataTable\Store.edf f95ec48fb3c3c8e80ba9501eaac3945897e35c8a
 RF_Online.bin 5c83378cdc1c830a2152bb60180fb6cec5ea2b38
 Snooper.dll 06b8f2ea62e418bfd5ce681ee1cb7be87b1da18d
