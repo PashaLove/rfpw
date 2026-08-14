@@ -825,7 +825,7 @@ DataTable\en-gb\LauncherMessage.ini a483b3b11be06b24e7fc29ae3fba9cb2801a8b4f
 DataTable\en-gb\MAPDATA.DAT 0d08fe290ea110e5b341dc6926fb7ce806b6a722
 DataTable\en-gb\NDCharacter.edf fcf39e1b2f1d8eb2001bc3895bd20d5601a9a3d6
 DataTable\en-gb\NDEventShip.edf af522824fcab6fdaab659fcbc1f443ca8550c44f
-DataTable\en-gb\NDItem.edf e6c008ef1b8336dcedca2fc2a614462586d5b9e8
+DataTable\en-gb\NDItem.edf d867a2458d2e1233ad4fec53a148562235ffd96d
 DataTable\en-gb\NDItemCash.edf de9fff817ee01d7ebf50020eacb4478acedab3d7
 DataTable\en-gb\NDLanguage.edf ca9ebc35341342e714eef2ff263e7358e4861455
 DataTable\en-gb\NDMap.edf 46286e4b5fb33d54d7473a5b860fb9b5c9771932
@@ -833,7 +833,7 @@ DataTable\en-gb\NDMsgEvent.edf 6607020bf7f3d8a6c7f3ecf383ff9027d7ba4d7f
 DataTable\en-gb\NDMsgMonster.edf 3964610b1dcb3e81ba26d9ff626232f1b9a3ff26
 DataTable\en-gb\NDQuest.edf 2a4686e1ade0e47910545e7454ce72bfb0f33cf8
 DataTable\en-gb\NDSkillForce.edf 59be0de72708cda352d7493475122a5657103c5c
-DataTable\en-gb\NDStore.edf 6a20867668d38fbe2525f17d851b9d5edc62704b
+DataTable\en-gb\NDStore.edf 5458be9780568a53b4cbcf28ea8a938c38ad088b
 DataTable\en-gb\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-gb\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-gb\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
@@ -841,11 +841,11 @@ DataTable\en-gb\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
 DataTable\en-gb\WorldMapData.dat 60fdead156b3ef91da31ff0f5e44dc79554a3bfa
 DataTable\EventShip.edf 229fa78d2333b2ae16c4cf6f205554e23053f23e
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
-DataTable\Item.edf bb629c9bc1cd69adcd894327e446a0bf26eeeeb3
+DataTable\Item.edf 760bc3c9b8adb0c50da354de9608776450dc0212
 DataTable\ItemCash.edf ccdba165497f317bedbda328f04d833fc02ae9a0
 DataTable\ItemCombine.edf 0543b7fdf87e71bd0fbfd11b6e886ca7d7c634b9
 DataTable\ItemPremium.edf 1544736bf24217cec92f6b48a581776a19371ca3
-DataTable\ItemSetEffect.edf 5c0e83d12ebe4589666028b5c739d6de5b5f90bb
+DataTable\ItemSetEffect.edf b5a695e36e291def8474eada3b16fa7b74d7bd2e
 DataTable\ItemTimer.edf e1b6691f78058f4cecf2949aca3ca497b5ec7d34
 DataTable\KeyMap.dat 207cc7f81403838148ed44e9d3f74eb8701c79b9
 DataTable\KeyMap_NKM.dat 781b44b3243247755a8880bf6a98bf49da221122
@@ -897,7 +897,7 @@ DataTable\ru-ru\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
 DataTable\ru-ru\UIHelp.edf c5a36b2392c096200d4d2ceb655df6c76c4e0a49
 DataTable\ru-ru\WORLDMAPDATA.DAT 09cb484f5dd2a80ed9f5be94c74eb861feec0e4e
 DataTable\SkillForce.edf 4a5e4bafc5d232d82822765feb1600e9cd0e8d2a
-DataTable\Store.edf e64c49e7abfa4aa7dfadba5f0939d4df7813c848
+DataTable\Store.edf 402233ee4db54baf915e4e7eb7558eb315e41623
 RF_Online.bin 5c83378cdc1c830a2152bb60180fb6cec5ea2b38
 Snooper\color_desc.txt 603255454b3c95b72819bd3d10dc0116f453c5ef
 Snooper\font.ini 91d1744796e20c4e84741414be60f356a05bf4e8
