@@ -796,7 +796,7 @@ Character\Npc\Tex\SLOT_MACHINE_3.DDS 5beaa6af9d7ed1c7114eb3d8f3e16db720fec1c7
 Character\Npc\Tex\SPENPCT.RFS a338b2ea30814d5fd2d9184aa3e02c60bc634010
 Character\Npc\Tex\WINTEREVN.RFS cf7a8b4bf82a2dcb5b5c2c8934bdf838346be7c8
 d3d9mkx.dll c8ca866e16abcb9e05b60df0a75219e5858ee9d0
-DataTable\Character.edf 3f63d8fef506a1a8cb834d60b861bccfbeec2f63
+DataTable\Character.edf c91330d0a6efcdcc1bee72865fc2f3f276eb07cf
 DataTable\en-gb\ar.scp 6d77484c3578bd30b37ad156d59d166cc4550bb1
 DataTable\en-gb\as.scp 24827424dc1342642ef2c433bad7f161fa204b17
 DataTable\en-gb\Aua.dic 065e109f27683752ccae14fcb0a1b8f7c039f704
@@ -825,7 +825,7 @@ DataTable\en-gb\LauncherMessage.ini a483b3b11be06b24e7fc29ae3fba9cb2801a8b4f
 DataTable\en-gb\MAPDATA.DAT 0d08fe290ea110e5b341dc6926fb7ce806b6a722
 DataTable\en-gb\NDCharacter.edf fcf39e1b2f1d8eb2001bc3895bd20d5601a9a3d6
 DataTable\en-gb\NDEventShip.edf af522824fcab6fdaab659fcbc1f443ca8550c44f
-DataTable\en-gb\NDItem.edf fe45f9326f8b3d8c36487b6f5c4df72d2d58d42d
+DataTable\en-gb\NDItem.edf 07b85f18dcd34c7dc3f3f41064cff82811be0882
 DataTable\en-gb\NDItemCash.edf de9fff817ee01d7ebf50020eacb4478acedab3d7
 DataTable\en-gb\NDLanguage.edf ca9ebc35341342e714eef2ff263e7358e4861455
 DataTable\en-gb\NDMap.edf 46286e4b5fb33d54d7473a5b860fb9b5c9771932
@@ -841,7 +841,7 @@ DataTable\en-gb\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
 DataTable\en-gb\WorldMapData.dat 60fdead156b3ef91da31ff0f5e44dc79554a3bfa
 DataTable\EventShip.edf 229fa78d2333b2ae16c4cf6f205554e23053f23e
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
-DataTable\Item.edf 06d5b215ab9bf46db4481e5f4c3d5b8527d4a72e
+DataTable\Item.edf b78ffa1ed88b69675bd879e7b044466f2861d0ff
 DataTable\ItemCash.edf ccdba165497f317bedbda328f04d833fc02ae9a0
 DataTable\ItemCombine.edf 0543b7fdf87e71bd0fbfd11b6e886ca7d7c634b9
 DataTable\ItemPremium.edf 1544736bf24217cec92f6b48a581776a19371ca3
