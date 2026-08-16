@@ -832,7 +832,7 @@ DataTable\en-gb\NDMap.edf 46286e4b5fb33d54d7473a5b860fb9b5c9771932
 DataTable\en-gb\NDMsgEvent.edf 6607020bf7f3d8a6c7f3ecf383ff9027d7ba4d7f
 DataTable\en-gb\NDMsgMonster.edf 3964610b1dcb3e81ba26d9ff626232f1b9a3ff26
 DataTable\en-gb\NDQuest.edf 2a4686e1ade0e47910545e7454ce72bfb0f33cf8
-DataTable\en-gb\NDSkillForce.edf 59be0de72708cda352d7493475122a5657103c5c
+DataTable\en-gb\NDSkillForce.edf 4286946c7335d1285bbecc1a578450c35c9ad31f
 DataTable\en-gb\NDStore.edf 5458be9780568a53b4cbcf28ea8a938c38ad088b
 DataTable\en-gb\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-gb\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
@@ -896,7 +896,7 @@ DataTable\ru-ru\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\ru-ru\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
 DataTable\ru-ru\UIHelp.edf c5a36b2392c096200d4d2ceb655df6c76c4e0a49
 DataTable\ru-ru\WORLDMAPDATA.DAT 09cb484f5dd2a80ed9f5be94c74eb861feec0e4e
-DataTable\SkillForce.edf 4a5e4bafc5d232d82822765feb1600e9cd0e8d2a
+DataTable\SkillForce.edf 431cb2bb605887297f460436b3b2371079a078f0
 DataTable\Store.edf 402233ee4db54baf915e4e7eb7558eb315e41623
 RF_Online.bin 5c83378cdc1c830a2152bb60180fb6cec5ea2b38
 Snooper\color_desc.txt 603255454b3c95b72819bd3d10dc0116f453c5ef
@@ -1182,7 +1182,7 @@ SpriteImage\common.spr 8af88b23750ef730819c6f5d2ff38b8e11efc66d
 SpriteImage\en-gb\CashShop.spr b6858e1315bc03949432809a0f13c0c6cff2304b
 SpriteImage\en-gb\centralmod.spr ef767f784cf5fbc69d76a7c9c1b959781e04e16f
 SpriteImage\en-gb\common.spr 5f236b643f3f1bee91d7cbe2bf0ca460cfefe83b
-SpriteImage\en-gb\item.spr ee8afdeb95cc0648095285349b3cced0fa350b09
+SpriteImage\en-gb\item.spr b24cd8d5432958e32e24dc7df031edbd53ae1ee7
 SpriteImage\en-gb\itemupgrade.spr 86f3ca26690c731040aa70eace579a1a34615434
 SpriteImage\en-gb\Launcher\agree_background.bmp 9eda91133f0df27e0be7726479c9a00c5ac8768c
 SpriteImage\en-gb\Launcher\basebackground.bmp 1c871145ffd447a471084e795bdfce531bb22159
@@ -1276,7 +1276,7 @@ SpriteImage\en-gb\seasonpass.spr aa044947f041edf228facb2032a4914be01822ff
 SpriteImage\en-gb\season_pass.spr c57329f592e4d85d92b56e4985478dad1e5f0ed7
 SpriteImage\en-gb\shop.spr 99501b336252185b06c08de29d716e88d9157b97
 SpriteImage\en-gb\transmogrification.spr e1dfcf66aefef903bd7c6d4b69bdbeefae8d301c
-SpriteImage\item.spr ee8afdeb95cc0648095285349b3cced0fa350b09
+SpriteImage\item.spr b24cd8d5432958e32e24dc7df031edbd53ae1ee7
 SpriteImage\owndev.spr e2e4e639b7da90279b5d261baaab7674e30a47df
 SpriteImage\pvp.spr 74e752f822edc8603d0e44ae3847764f0c37b5eb
 SpriteImage\ru-ru\CashShop.spr b6858e1315bc03949432809a0f13c0c6cff2304b
