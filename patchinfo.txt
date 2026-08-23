@@ -824,7 +824,7 @@ Character\unit\tex\gount.rfs 5dddc8e5302f6cbe23fbcadb33284db6fb1ed54a
 Character\unit\tex\ORI70GOL.RFS d1a1b8fbcd1d7f61c4e8d2940456d2332658ce5f
 Character\unit\tex\rfsinfo.dat 5070f71f1e6566660dc7907e6b2b612984689bbe
 d3d9mkx.dll c8ca866e16abcb9e05b60df0a75219e5858ee9d0
-DataTable\Character.edf c91330d0a6efcdcc1bee72865fc2f3f276eb07cf
+DataTable\Character.edf 6a5caa79cf6c2b0f3ea3f1841af49fac2846f8c3
 DataTable\en-gb\ar.scp 6d77484c3578bd30b37ad156d59d166cc4550bb1
 DataTable\en-gb\as.scp 24827424dc1342642ef2c433bad7f161fa204b17
 DataTable\en-gb\Aua.dic 065e109f27683752ccae14fcb0a1b8f7c039f704
@@ -853,7 +853,7 @@ DataTable\en-gb\LauncherMessage.ini a483b3b11be06b24e7fc29ae3fba9cb2801a8b4f
 DataTable\en-gb\MAPDATA.DAT 0d08fe290ea110e5b341dc6926fb7ce806b6a722
 DataTable\en-gb\NDCharacter.edf fcf39e1b2f1d8eb2001bc3895bd20d5601a9a3d6
 DataTable\en-gb\NDEventShip.edf af522824fcab6fdaab659fcbc1f443ca8550c44f
-DataTable\en-gb\NDItem.edf d48a49026a996ce08106690c59d174ce0c54c018
+DataTable\en-gb\NDItem.edf 6bd3bfc9366ee69fdd1509e585c8df47a3ad6458
 DataTable\en-gb\NDItemCash.edf 9a4dfaea5e02fc38d79808fe08e2f8893a498a4a
 DataTable\en-gb\NDLanguage.edf 1d7d1ad660402de5560ed6f655cbb7e51ad1a7b8
 DataTable\en-gb\NDMap.edf 46286e4b5fb33d54d7473a5b860fb9b5c9771932
@@ -869,9 +869,9 @@ DataTable\en-gb\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
 DataTable\en-gb\WorldMapData.dat 60fdead156b3ef91da31ff0f5e44dc79554a3bfa
 DataTable\EventShip.edf 229fa78d2333b2ae16c4cf6f205554e23053f23e
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
-DataTable\Item.edf d2576c760cd492a1896ce79810d0969c50066d45
+DataTable\Item.edf 012e3112d6e29dcf42996c09211fabc64e609936
 DataTable\ItemCash.edf d9a7df98bc091e157c584cff0a2418d867ccd2aa
-DataTable\ItemCombine.edf 4ab8a8a01a1f7f283f9a48cd063b9abb535d9add
+DataTable\ItemCombine.edf f8453770dc49903572e82b577d514eb8c01dc3dd
 DataTable\ItemPremium.edf 1544736bf24217cec92f6b48a581776a19371ca3
 DataTable\ItemSetEffect.edf 22bc1d02d1e7a7294baaea6d7b44e4f28f719a73
 DataTable\ItemTimer.edf e1b6691f78058f4cecf2949aca3ca497b5ec7d34
