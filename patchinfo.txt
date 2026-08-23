@@ -824,7 +824,7 @@ Character\unit\tex\gount.rfs 5dddc8e5302f6cbe23fbcadb33284db6fb1ed54a
 Character\unit\tex\ORI70GOL.RFS d1a1b8fbcd1d7f61c4e8d2940456d2332658ce5f
 Character\unit\tex\rfsinfo.dat 5070f71f1e6566660dc7907e6b2b612984689bbe
 d3d9mkx.dll c8ca866e16abcb9e05b60df0a75219e5858ee9d0
-DataTable\Character.edf 6a5caa79cf6c2b0f3ea3f1841af49fac2846f8c3
+DataTable\Character.edf cca77939fe42073b3514c6601a801e39aca25f12
 DataTable\en-gb\ar.scp 6d77484c3578bd30b37ad156d59d166cc4550bb1
 DataTable\en-gb\as.scp 24827424dc1342642ef2c433bad7f161fa204b17
 DataTable\en-gb\Aua.dic 065e109f27683752ccae14fcb0a1b8f7c039f704
@@ -851,9 +851,9 @@ DataTable\en-gb\KeyMap.dat 207cc7f81403838148ed44e9d3f74eb8701c79b9
 DataTable\en-gb\KeyMap_NKM.dat 781b44b3243247755a8880bf6a98bf49da221122
 DataTable\en-gb\LauncherMessage.ini a483b3b11be06b24e7fc29ae3fba9cb2801a8b4f
 DataTable\en-gb\MAPDATA.DAT 0d08fe290ea110e5b341dc6926fb7ce806b6a722
-DataTable\en-gb\NDCharacter.edf fcf39e1b2f1d8eb2001bc3895bd20d5601a9a3d6
+DataTable\en-gb\NDCharacter.edf 8985c85423d735e4b95e4ee8213bfd4d27d3bee9
 DataTable\en-gb\NDEventShip.edf af522824fcab6fdaab659fcbc1f443ca8550c44f
-DataTable\en-gb\NDItem.edf 8d964489dafff9fa281b74543ae0025066d6910b
+DataTable\en-gb\NDItem.edf 1b5df34b276806833639f546b2e6a88809767e66
 DataTable\en-gb\NDItemCash.edf b8cfd6bb6981a0d02403488bf7a35577a36daa35
 DataTable\en-gb\NDLanguage.edf 1d7d1ad660402de5560ed6f655cbb7e51ad1a7b8
 DataTable\en-gb\NDMap.edf 46286e4b5fb33d54d7473a5b860fb9b5c9771932
@@ -861,7 +861,7 @@ DataTable\en-gb\NDMsgEvent.edf 6607020bf7f3d8a6c7f3ecf383ff9027d7ba4d7f
 DataTable\en-gb\NDMsgMonster.edf 3964610b1dcb3e81ba26d9ff626232f1b9a3ff26
 DataTable\en-gb\NDQuest.edf 2a4686e1ade0e47910545e7454ce72bfb0f33cf8
 DataTable\en-gb\NDSkillForce.edf 17091a13dd73a34576f9df914c85fd92b8e2d931
-DataTable\en-gb\NDStore.edf 9cdcc9d02ef9e741b49b38a2a7dbf3272b3374e5
+DataTable\en-gb\NDStore.edf 2f5e5a5f023d0c80ec8637a84683730029a69a63
 DataTable\en-gb\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-gb\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-gb\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
@@ -869,9 +869,9 @@ DataTable\en-gb\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
 DataTable\en-gb\WorldMapData.dat 60fdead156b3ef91da31ff0f5e44dc79554a3bfa
 DataTable\EventShip.edf 229fa78d2333b2ae16c4cf6f205554e23053f23e
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
-DataTable\Item.edf 1cddead444e44c7a63b9d58718a08680f9b89174
+DataTable\Item.edf 17faffd18ce5b8d727853a5f61a7911bc04d8fff
 DataTable\ItemCash.edf 7dd62533aeeb5ad0c25f82f446a85c11aa171ae6
-DataTable\ItemCombine.edf f24667cd741c5438bd49c3042824e029af0318a6
+DataTable\ItemCombine.edf 4adfcfe7bf182a24387bc65da9a65cab5f1aef4a
 DataTable\ItemPremium.edf 1544736bf24217cec92f6b48a581776a19371ca3
 DataTable\ItemSetEffect.edf 22bc1d02d1e7a7294baaea6d7b44e4f28f719a73
 DataTable\ItemTimer.edf e1b6691f78058f4cecf2949aca3ca497b5ec7d34
@@ -925,7 +925,7 @@ DataTable\ru-ru\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
 DataTable\ru-ru\UIHelp.edf c5a36b2392c096200d4d2ceb655df6c76c4e0a49
 DataTable\ru-ru\WORLDMAPDATA.DAT 09cb484f5dd2a80ed9f5be94c74eb861feec0e4e
 DataTable\SkillForce.edf 57de33543007fef2a4af635d8c3ba4898743d9e6
-DataTable\Store.edf 2d691d4d28806c1297d2753e65a249a7d1fec362
+DataTable\Store.edf 28bd6e3b293f8b71f697e278fcd17b87e74a6ebe
 RF_Online.bin 5c83378cdc1c830a2152bb60180fb6cec5ea2b38
 Snooper\color_desc.txt 603255454b3c95b72819bd3d10dc0116f453c5ef
 Snooper\font.ini 91d1744796e20c4e84741414be60f356a05bf4e8
@@ -1210,7 +1210,7 @@ SpriteImage\common.spr 8af88b23750ef730819c6f5d2ff38b8e11efc66d
 SpriteImage\en-gb\CashShop.spr b6858e1315bc03949432809a0f13c0c6cff2304b
 SpriteImage\en-gb\centralmod.spr ef767f784cf5fbc69d76a7c9c1b959781e04e16f
 SpriteImage\en-gb\common.spr 5f236b643f3f1bee91d7cbe2bf0ca460cfefe83b
-SpriteImage\en-gb\item.spr a187dfb3b7d6d9eef58934203b64a8a1440b9d0b
+SpriteImage\en-gb\item.spr 4c86b3193d804dbf758a53548bc7aa3eed9bb5e4
 SpriteImage\en-gb\itemupgrade.spr 86f3ca26690c731040aa70eace579a1a34615434
 SpriteImage\en-gb\Launcher\agree_background.bmp 9eda91133f0df27e0be7726479c9a00c5ac8768c
 SpriteImage\en-gb\Launcher\basebackground.bmp 1c871145ffd447a471084e795bdfce531bb22159
@@ -1304,7 +1304,7 @@ SpriteImage\en-gb\seasonpass.spr aa044947f041edf228facb2032a4914be01822ff
 SpriteImage\en-gb\season_pass.spr c57329f592e4d85d92b56e4985478dad1e5f0ed7
 SpriteImage\en-gb\shop.spr 99501b336252185b06c08de29d716e88d9157b97
 SpriteImage\en-gb\transmogrification.spr e1dfcf66aefef903bd7c6d4b69bdbeefae8d301c
-SpriteImage\item.spr a187dfb3b7d6d9eef58934203b64a8a1440b9d0b
+SpriteImage\item.spr 4c86b3193d804dbf758a53548bc7aa3eed9bb5e4
 SpriteImage\owndev.spr 315c55734597342b0343b0d772ece36721d4b456
 SpriteImage\pvp.spr 74e752f822edc8603d0e44ae3847764f0c37b5eb
 SpriteImage\ru-ru\CashShop.spr b6858e1315bc03949432809a0f13c0c6cff2304b
