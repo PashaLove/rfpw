@@ -860,7 +860,7 @@ DataTable\en-gb\NDMap.edf 46286e4b5fb33d54d7473a5b860fb9b5c9771932
 DataTable\en-gb\NDMsgEvent.edf 6607020bf7f3d8a6c7f3ecf383ff9027d7ba4d7f
 DataTable\en-gb\NDMsgMonster.edf 3964610b1dcb3e81ba26d9ff626232f1b9a3ff26
 DataTable\en-gb\NDQuest.edf 2a4686e1ade0e47910545e7454ce72bfb0f33cf8
-DataTable\en-gb\NDSkillForce.edf b3cc0d15537dbd0a035dceebdd0ad3bf0254cedc
+DataTable\en-gb\NDSkillForce.edf 17091a13dd73a34576f9df914c85fd92b8e2d931
 DataTable\en-gb\NDStore.edf 9cdcc9d02ef9e741b49b38a2a7dbf3272b3374e5
 DataTable\en-gb\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-gb\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
@@ -924,7 +924,7 @@ DataTable\ru-ru\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\ru-ru\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
 DataTable\ru-ru\UIHelp.edf c5a36b2392c096200d4d2ceb655df6c76c4e0a49
 DataTable\ru-ru\WORLDMAPDATA.DAT 09cb484f5dd2a80ed9f5be94c74eb861feec0e4e
-DataTable\SkillForce.edf 417db5098c616053088852569a3136f81abcb3b9
+DataTable\SkillForce.edf 57de33543007fef2a4af635d8c3ba4898743d9e6
 DataTable\Store.edf 2d691d4d28806c1297d2753e65a249a7d1fec362
 RF_Online.bin 5c83378cdc1c830a2152bb60180fb6cec5ea2b38
 Snooper\color_desc.txt 603255454b3c95b72819bd3d10dc0116f453c5ef
