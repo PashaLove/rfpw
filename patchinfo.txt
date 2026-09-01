@@ -1622,9 +1622,9 @@ DataTable\en-gb\LauncherMessage.ini a483b3b11be06b24e7fc29ae3fba9cb2801a8b4f
 DataTable\en-gb\MAPDATA.DAT 0d08fe290ea110e5b341dc6926fb7ce806b6a722
 DataTable\en-gb\NDCharacter.edf 9ae3ef8bffb3a56f1b97ade7a7c7e978855dae10
 DataTable\en-gb\NDEventShip.edf af522824fcab6fdaab659fcbc1f443ca8550c44f
-DataTable\en-gb\NDItem.edf bfb42ac10d7f443030fa19834985bdd78ffda3f8
+DataTable\en-gb\NDItem.edf 917c85ce4dfb0215184f9d9a5e1fab0129bcc186
 DataTable\en-gb\NDItemCash.edf b8cfd6bb6981a0d02403488bf7a35577a36daa35
-DataTable\en-gb\NDLanguage.edf 1d7d1ad660402de5560ed6f655cbb7e51ad1a7b8
+DataTable\en-gb\NDLanguage.edf f8ca087712fc202a910873179864592d7f3be559
 DataTable\en-gb\NDMap.edf 46286e4b5fb33d54d7473a5b860fb9b5c9771932
 DataTable\en-gb\NDMsgEvent.edf 6607020bf7f3d8a6c7f3ecf383ff9027d7ba4d7f
 DataTable\en-gb\NDMsgMonster.edf 3964610b1dcb3e81ba26d9ff626232f1b9a3ff26
@@ -1638,7 +1638,7 @@ DataTable\en-gb\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
 DataTable\en-gb\WorldMapData.dat 60fdead156b3ef91da31ff0f5e44dc79554a3bfa
 DataTable\EventShip.edf 229fa78d2333b2ae16c4cf6f205554e23053f23e
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
-DataTable\Item.edf 04e0de466379ae57a998480729bbb9dcdfa926f1
+DataTable\Item.edf 085a1c0feb7b06575d8f1b5c44c86086a254771f
 DataTable\ItemCash.edf 7dd62533aeeb5ad0c25f82f446a85c11aa171ae6
 DataTable\ItemCombine.edf 76943be5f926a0361fc611c8bc69887927aecaae
 DataTable\ItemPremium.edf 1544736bf24217cec92f6b48a581776a19371ca3
@@ -1650,7 +1650,7 @@ DataTable\Map.edf 0d2d326ed610dbb19095c5fe63d2ce57975483d0
 DataTable\MsgEvent.edf 7041511099ab1f7fd7013bd72f9878724ab56ff1
 DataTable\PlayerCharacter.edf 96c6eac1fc4a0501e189618709c8c5dd5cc32c5f
 DataTable\Quest.edf c9184db2d2f5c1a5fefe5c0df8884b092dccd509
-DataTable\Resource.edf 0f708ec5320c6e682aa2cf10bd0b6d12c64c7ab0
+DataTable\Resource.edf 8234617c70325dbb0a3d2e64491cf49e55e19cd8
 DataTable\ru-ru\ar.scp 14872af045a3dbce60833c7121297f17e578d999
 DataTable\ru-ru\as.scp 135cf6c8fcafc05fc0c48a987c2a3146180cf914
 DataTable\ru-ru\Aua.dic 046d9ea80f2ee5b9767ce269b15ba3d5322ab4e4
