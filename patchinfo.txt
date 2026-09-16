@@ -1861,7 +1861,7 @@ Chef\Monster\MONSTER_3\ORCDAGAN.EFF 5c24e05b5e13a41470c9d3b8de9cc92e3cb0321d
 Chef\Monster\MONSTER_3\ORCDAGNU.EFF 3a2a07d383e6d31a8dd4b69f128d80efc83698da
 Chef\Monster\MONSTER_3\ORCDAGON.EFF 02e1cd2a74e3489060618b5ef5cbc3b4a5499e1b
 d3d9mkx.dll c8ca866e16abcb9e05b60df0a75219e5858ee9d0
-DataTable\Character.edf fd8a86b4e27ae3a1520721522bf9a03bcc7769f6
+DataTable\Character.edf 498017452fc15f1b88a31195c53721abcf0f8f98
 DataTable\en-gb\ar.scp 6d77484c3578bd30b37ad156d59d166cc4550bb1
 DataTable\en-gb\as.scp 24827424dc1342642ef2c433bad7f161fa204b17
 DataTable\en-gb\Aua.dic 065e109f27683752ccae14fcb0a1b8f7c039f704
@@ -1889,9 +1889,9 @@ DataTable\en-gb\KeyMap.dat 207cc7f81403838148ed44e9d3f74eb8701c79b9
 DataTable\en-gb\KeyMap_NKM.dat 781b44b3243247755a8880bf6a98bf49da221122
 DataTable\en-gb\LauncherMessage.ini a483b3b11be06b24e7fc29ae3fba9cb2801a8b4f
 DataTable\en-gb\MAPDATA.DAT 0d08fe290ea110e5b341dc6926fb7ce806b6a722
-DataTable\en-gb\NDCharacter.edf 42c50722f2909f181508cacc5bddac910dbbb4a6
+DataTable\en-gb\NDCharacter.edf 556a5ec3e5fe55e57990cd95bbd91e4d6f76827e
 DataTable\en-gb\NDEventShip.edf 3c93ab4b891d179f7741cfa21c38c20c5629a599
-DataTable\en-gb\NDItem.edf 0c9be2b4ac01d70e18b3d03b05688f36c533fddb
+DataTable\en-gb\NDItem.edf e281491affa1dd7c235321be806eea0f7049c1c6
 DataTable\en-gb\NDItemCash.edf 631a5f073a5280197745ebe50584409bebb16a56
 DataTable\en-gb\NDLanguage.edf d6d4bc739536d6c05b946d53e87d33cad633fd89
 DataTable\en-gb\NDMap.edf 46286e4b5fb33d54d7473a5b860fb9b5c9771932
@@ -1908,7 +1908,7 @@ DataTable\en-gb\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
 DataTable\en-gb\WorldMapData.dat 60fdead156b3ef91da31ff0f5e44dc79554a3bfa
 DataTable\EventShip.edf af0dc83f836ba2bfaedb2ab8b57982fa195ec03b
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
-DataTable\Item.edf ac1b379e161251588e3f10fb165c6b27356c7e64
+DataTable\Item.edf ab592d2a1a2dd02ef116934057884cab83c07021
 DataTable\ItemCash.edf be29ab141d27f8d4d858d9bb1a963f46bd464759
 DataTable\ItemCombine.edf 5cd6fb80950a2d3d6a30414ab8d67052c052b691
 DataTable\ItemPremium.edf 316fcbdf17f98f5065d137b792e4a9a7651b7b56
