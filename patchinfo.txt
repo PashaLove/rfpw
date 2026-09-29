@@ -159,3 +159,4 @@ SpriteImage\common\SecheduleBoss.spr 9e380d720858bdbf68ab07057c0f06b07bab1853
 SpriteImage\common\shop.spr 99501b336252185b06c08de29d716e88d9157b97
 SpriteImage\common\Transmutation.spr 0519e61774f8e5a34853d69ded44e4e6759ec425
 SpriteImage\common\UnitShop.spr 57011f1358556dbd0f359244c24deef3db5d510e
+SpriteImage\en-gb\common.spr f082b841c2aca6bc90bc7abfb5db89d0f495699c
