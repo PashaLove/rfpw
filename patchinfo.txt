@@ -1,3 +1,4 @@
+Chef\EffectFileList.txt ebe89d292c52c4caae197e338464f3181c90d71d
 d3d9mkx.dll c8ca866e16abcb9e05b60df0a75219e5858ee9d0
 d3d9mkx.dll.tmp d9c4d2bfb45f81a25f81b8b52cda4ecfee51ce88
 DataTable\Character.edf 24133ef94a0b3ca5b9c130103e7de68cf445d3ad
