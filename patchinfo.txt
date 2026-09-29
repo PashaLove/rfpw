@@ -39,6 +39,7 @@ DataTable\en-gb\CcrLogo.dat d26052e2923aaa21afb9b49c2b28b4f253eef213
 DataTable\en-gb\Ceua.env 05dcb98a80afb195f3c873259279327455037818
 DataTable\en-gb\cf.scp 90bb8b0e7b1b8efda3b016eab6836883a36ea73b
 DataTable\en-gb\ChatCommand.ini cd1166391bf3f8c0fe9a26bf3ef375b2d809e389
+DataTable\en-gb\common.spr f082b841c2aca6bc90bc7abfb5db89d0f495699c
 DataTable\en-gb\cr.scp 3d8cbd60c6f1192f07a310aec304abeee9625f10
 DataTable\en-gb\cs.scp df7f2652471e9b66a9dc0555e218c604f2ca4478
 DataTable\en-gb\Csua.txt 5f1dc210f0b06d95325c9308e1629847030346f4
@@ -64,7 +65,7 @@ DataTable\en-gb\NDMsgEvent.edf 3426130f735f8e6460f28dcc0766988f8d8acceb
 DataTable\en-gb\NDMsgMonster.edf 432163d532c765e7f699692b072605e6aad0d862
 DataTable\en-gb\NDQuest.edf 76e0582ecf6c25eba7bb174cbc031a3a0920eb3c
 DataTable\en-gb\NDSkillForce.edf 558ad5ac942949399b19810e062a0299aab6b74d
-DataTable\en-gb\NDStore.edf ba41f6e977a89db977d8f0080973eb6d1d54e501
+DataTable\en-gb\NDStore.edf 8c5d9fb36d5ef4ac2516ad0f7ad501e432961f3e
 DataTable\en-gb\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-gb\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-gb\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
@@ -129,7 +130,7 @@ DataTable\ru-ru\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
 DataTable\ru-ru\UIHelp.edf c5a36b2392c096200d4d2ceb655df6c76c4e0a49
 DataTable\ru-ru\WORLDMAPDATA.DAT 09cb484f5dd2a80ed9f5be94c74eb861feec0e4e
 DataTable\SkillForce.edf 2a60919ebc146df3da195ad7e010578a0bd8fd45
-DataTable\Store.edf bd5fc84e345a702ac769158e7504546c15679581
+DataTable\Store.edf 29d6b6dc19b198970c1ea71f0b2f50a6b9452bab
 dbghelp.dll f456904ad49e4a6cb8e60d2998ba167b115ac8a1
 DechiperDX_Beta.exe c7f60d660bfa28edf4e4b768a493726451cbf742
 lc.cfg 519a405f4eaa38e347fbef71479c26dbe0a608be
