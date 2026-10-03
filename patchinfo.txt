@@ -32,7 +32,7 @@ DataTable\en-gb\LauncherMessage.ini a483b3b11be06b24e7fc29ae3fba9cb2801a8b4f
 DataTable\en-gb\MAPDATA.DAT 0d08fe290ea110e5b341dc6926fb7ce806b6a722
 DataTable\en-gb\NDCharacter.edf ffdd0de2b90a1f08323ed9f9af0188ba4c69f00c
 DataTable\en-gb\NDEventShip.edf 3c93ab4b891d179f7741cfa21c38c20c5629a599
-DataTable\en-gb\NDItem.edf 84af988bec11ecc8e7892241e812b95627f844bb
+DataTable\en-gb\NDItem.edf 170c2f3bc354de1e50643c20c0a6be1a04d71675
 DataTable\en-gb\NDItemCash.edf 631a5f073a5280197745ebe50584409bebb16a56
 DataTable\en-gb\NDLanguage.edf d6d4bc739536d6c05b946d53e87d33cad633fd89
 DataTable\en-gb\NDMap.edf 4e27ba0535a7442a9b76883972b7930a57eb9177
@@ -49,7 +49,7 @@ DataTable\en-gb\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
 DataTable\en-gb\WorldMapData.dat 60fdead156b3ef91da31ff0f5e44dc79554a3bfa
 DataTable\EventShip.edf af0dc83f836ba2bfaedb2ab8b57982fa195ec03b
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
-DataTable\Item.edf 14cfc06fcec6c720eb70a9b849d0d46927b7ab04
+DataTable\Item.edf 9b0d58fdb3c24e192c6b4fa20a1434a0e7ae4425
 DataTable\ItemCash.edf be29ab141d27f8d4d858d9bb1a963f46bd464759
 DataTable\ItemCombine.edf a58e3f23d61b0a80b2c090c07c766f23e24926d0
 DataTable\ItemPremium.edf 316fcbdf17f98f5065d137b792e4a9a7651b7b56
@@ -112,6 +112,7 @@ lc.cfg 519a405f4eaa38e347fbef71479c26dbe0a608be
 MSS32.DLL 8e7429fbde9144bba3e65d1ea4f7886b34a2fb30
 RF_Online.bin 096996c888b961cc1c42e9a1927d7f5d52eeb50b
 RF_Online.bin.tmp 17b114c4d82f6183a8b2c5b1e3714f859048d427
+Snooper\fastcombine.dat d047333012f43e2cb764a0e4a9d4564717ee5d08
 Snooper\font.ini 91d1744796e20c4e84741414be60f356a05bf4e8
 Snooper\mod\7daylogin.ini 0dec587343f0ed41c14c78896439939592572ca9
 Snooper\mod\aura.ini 0fad68f595f4dbed5c11516149135de8219b28f8
@@ -418,7 +419,7 @@ SpriteImage\dungeon.spr d7b8f43691110b1994e2b9dab859ceb9de222187
 SpriteImage\emblem.spr dc6b7f6b43f18495901bd174c6a3cbaea99967a7
 SpriteImage\en-gb\CashShop.spr c694734b08693ef12e992a8d327500af14fa3146
 SpriteImage\en-gb\common.spr 785d09a9f9d5ad75a34c946bc53a9757fcb22114
-SpriteImage\en-gb\item.spr 1d9092235c1582cb81e74d7fb38738769c0f3ec7
+SpriteImage\en-gb\item.spr 1a8a1b2dd4ffea70a36b6d1cd6e02209331e8d48
 SpriteImage\en-gb\itemupgrade.spr 51569e7314cdded6613709e42157f45ccdfda34f
 SpriteImage\en-gb\Launcher\agree_background.bmp 9eda91133f0df27e0be7726479c9a00c5ac8768c
 SpriteImage\en-gb\Launcher\basebackground.bmp 1c871145ffd447a471084e795bdfce531bb22159
