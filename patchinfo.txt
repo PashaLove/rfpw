@@ -40,7 +40,7 @@ DataTable\en-gb\NDMsgEvent.edf 3426130f735f8e6460f28dcc0766988f8d8acceb
 DataTable\en-gb\NDMsgMonster.edf 432163d532c765e7f699692b072605e6aad0d862
 DataTable\en-gb\NDQuest.edf 76e0582ecf6c25eba7bb174cbc031a3a0920eb3c
 DataTable\en-gb\NDSkillForce.edf bfe3fe37d890221a69da11872512f224be4e907a
-DataTable\en-gb\NDStore.edf 3eb4a34ced987d253e1664ba5f319569dbef0cd1
+DataTable\en-gb\NDStore.edf 2929b935b28ca288714487dc6857e847c106f578
 DataTable\en-gb\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-gb\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-gb\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
@@ -105,7 +105,7 @@ DataTable\ru-ru\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
 DataTable\ru-ru\UIHelp.edf c5a36b2392c096200d4d2ceb655df6c76c4e0a49
 DataTable\ru-ru\WORLDMAPDATA.DAT 09cb484f5dd2a80ed9f5be94c74eb861feec0e4e
 DataTable\SkillForce.edf f535d6d79b04371b153a1ab6cb6001733d3926cd
-DataTable\Store.edf 974e55820bfcb7eaba8a058425c9e3e4640cb91e
+DataTable\Store.edf cfcd843ab939e2d39f5263b563c92f5f58499989
 dbghelp.dll f456904ad49e4a6cb8e60d2998ba167b115ac8a1
 DechiperDX_Beta.exe c7f60d660bfa28edf4e4b768a493726451cbf742
 lc.cfg 519a405f4eaa38e347fbef71479c26dbe0a608be
