@@ -418,7 +418,7 @@ SpriteImage\cribattle.spr 668656b14622c8a7cb088b6d733ab0b1a43bab7c
 SpriteImage\dungeon.spr d7b8f43691110b1994e2b9dab859ceb9de222187
 SpriteImage\emblem.spr dc6b7f6b43f18495901bd174c6a3cbaea99967a7
 SpriteImage\en-gb\CashShop.spr 019b09628b26552c5b3f1e9aca6270a4ec052251
-SpriteImage\en-gb\common.spr 5e4515dbb9e95e20a71a170d85348f43171b76e0
+SpriteImage\en-gb\common.spr 1fe91d202d192c656dfbee2ca7edca3a7a87ab81
 SpriteImage\en-gb\item.spr 801c7ac9323e49332bd2afcb9fc81e6f3df8044d
 SpriteImage\en-gb\itemupgrade.spr 51569e7314cdded6613709e42157f45ccdfda34f
 SpriteImage\en-gb\Launcher\agree_background.bmp 9eda91133f0df27e0be7726479c9a00c5ac8768c
