@@ -32,7 +32,7 @@ DataTable\en-gb\LauncherMessage.ini a483b3b11be06b24e7fc29ae3fba9cb2801a8b4f
 DataTable\en-gb\MAPDATA.DAT 0d08fe290ea110e5b341dc6926fb7ce806b6a722
 DataTable\en-gb\NDCharacter.edf ffdd0de2b90a1f08323ed9f9af0188ba4c69f00c
 DataTable\en-gb\NDEventShip.edf 3c93ab4b891d179f7741cfa21c38c20c5629a599
-DataTable\en-gb\NDItem.edf e288e839a7b64b2e97d48e638749b55e1a5d6c13
+DataTable\en-gb\NDItem.edf bbc8ffb1a09b3a2885979568ec1b4b0fb86e5a69
 DataTable\en-gb\NDItemCash.edf d12d70288e5f87d7edf126e89866a9df009aa908
 DataTable\en-gb\NDLanguage.edf f4ff4db377a649ae0dcbc58de18c6273eebe2cfd
 DataTable\en-gb\NDMap.edf 24152325553d6385ee627679473dc590614255fa
@@ -49,7 +49,7 @@ DataTable\en-gb\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
 DataTable\en-gb\WorldMapData.dat 60fdead156b3ef91da31ff0f5e44dc79554a3bfa
 DataTable\EventShip.edf af0dc83f836ba2bfaedb2ab8b57982fa195ec03b
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
-DataTable\Item.edf b9cb10a1a4aacf710b50dde8ca26bc04bab26fb0
+DataTable\Item.edf 593b5c26fc78c26f1f159943de62d77526ab8794
 DataTable\ItemCash.edf d2e0cb39568a52efd15bd984cb12b5573fca24fe
 DataTable\ItemCombine.edf a58e3f23d61b0a80b2c090c07c766f23e24926d0
 DataTable\ItemPremium.edf 316fcbdf17f98f5065d137b792e4a9a7651b7b56
@@ -418,7 +418,7 @@ SpriteImage\cribattle.spr 668656b14622c8a7cb088b6d733ab0b1a43bab7c
 SpriteImage\dungeon.spr d7b8f43691110b1994e2b9dab859ceb9de222187
 SpriteImage\emblem.spr dc6b7f6b43f18495901bd174c6a3cbaea99967a7
 SpriteImage\en-gb\CashShop.spr 229cc8b447810b322b812d250c1ac6afd00916e5
-SpriteImage\en-gb\common.spr 2445fa2b3791c02088d847da850015df42cda026
+SpriteImage\en-gb\common.spr 5e4515dbb9e95e20a71a170d85348f43171b76e0
 SpriteImage\en-gb\item.spr 3dc0f3b90b2ffabe56aa3c24d759b6d89018e8ad
 SpriteImage\en-gb\itemupgrade.spr 51569e7314cdded6613709e42157f45ccdfda34f
 SpriteImage\en-gb\Launcher\agree_background.bmp 9eda91133f0df27e0be7726479c9a00c5ac8768c
