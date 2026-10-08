@@ -2,7 +2,7 @@ Chef\EffectFileList.txt ebe89d292c52c4caae197e338464f3181c90d71d
 DataTable\Character.edf dd7433d66c2742a328435589f80791cafa9f86d0
 DataTable\en-gb\NDCharacter.edf ffdd0de2b90a1f08323ed9f9af0188ba4c69f00c
 DataTable\en-gb\NDEventShip.edf 3c93ab4b891d179f7741cfa21c38c20c5629a599
-DataTable\en-gb\NDItem.edf af62b9368b7b7001b4e47caf44ab3367e489894c
+DataTable\en-gb\NDItem.edf e429ac4c4f38143f106e25855a1d1056c495f208
 DataTable\en-gb\NDItemCash.edf d12d70288e5f87d7edf126e89866a9df009aa908
 DataTable\en-gb\NDLanguage.edf f4ff4db377a649ae0dcbc58de18c6273eebe2cfd
 DataTable\en-gb\NDMap.edf 24152325553d6385ee627679473dc590614255fa
@@ -12,7 +12,7 @@ DataTable\en-gb\NDQuest.edf 76e0582ecf6c25eba7bb174cbc031a3a0920eb3c
 DataTable\en-gb\NDSkillForce.edf 6feacb90eb35cccfcc570ee6f4d20e4654824bcb
 DataTable\en-gb\NDStore.edf 2929b935b28ca288714487dc6857e847c106f578
 DataTable\EventShip.edf af0dc83f836ba2bfaedb2ab8b57982fa195ec03b
-DataTable\Item.edf cca60f2a6d4614937d7f6a9b52fd701df3cb516a
+DataTable\Item.edf 6b08f9e624c45dd1c49913326e8e988972888510
 DataTable\ItemCash.edf d2e0cb39568a52efd15bd984cb12b5573fca24fe
 DataTable\ItemCombine.edf 3513d7571a2ce1269194026abf20175566e2786c
 DataTable\ItemPremium.edf 24f0cf83dd1a34813cba7c888cb3e3f78fe4249f
@@ -335,7 +335,7 @@ SpriteImage\cribattle.spr 668656b14622c8a7cb088b6d733ab0b1a43bab7c
 SpriteImage\dungeon.spr d7b8f43691110b1994e2b9dab859ceb9de222187
 SpriteImage\emblem.spr dc6b7f6b43f18495901bd174c6a3cbaea99967a7
 SpriteImage\en-gb\CashShop.spr 019b09628b26552c5b3f1e9aca6270a4ec052251
-SpriteImage\en-gb\common.spr a80b465b64891d6ebd3ce37564624d44b3636df4
+SpriteImage\en-gb\common.spr 9b3ae4371ec8adf53512bad597d91c3a5a54a408
 SpriteImage\en-gb\item.spr b4c2430d3159d773a83c6ec518131ffdb7f89409
 SpriteImage\en-gb\itemupgrade.spr 51569e7314cdded6613709e42157f45ccdfda34f
 SpriteImage\en-gb\Launcher\agree_background.bmp 9eda91133f0df27e0be7726479c9a00c5ac8768c
