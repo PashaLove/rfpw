@@ -2,7 +2,7 @@ Chef\EffectFileList.txt ebe89d292c52c4caae197e338464f3181c90d71d
 DataTable\Character.edf 4c10636127f54d00c3b1e3b58a7b70fd6306212a
 DataTable\en-gb\NDCharacter.edf 9cdf035844b3dc6920770ecedbb10ce8fb8d3789
 DataTable\en-gb\NDEventShip.edf 3c93ab4b891d179f7741cfa21c38c20c5629a599
-DataTable\en-gb\NDItem.edf dd96dccb5a54681fa45118b248fa22212cb56654
+DataTable\en-gb\NDItem.edf 0f215de57d63a9d25c33641f2a416e183c11f969
 DataTable\en-gb\NDItemCash.edf b5f7a9df204eeb9da69476dd82b21559070ae49a
 DataTable\en-gb\NDLanguage.edf f4ff4db377a649ae0dcbc58de18c6273eebe2cfd
 DataTable\en-gb\NDMap.edf 24152325553d6385ee627679473dc590614255fa
@@ -12,7 +12,7 @@ DataTable\en-gb\NDQuest.edf 76e0582ecf6c25eba7bb174cbc031a3a0920eb3c
 DataTable\en-gb\NDSkillForce.edf 2db6d9111fe3b22eef1fd2c727092cdc922b5908
 DataTable\en-gb\NDStore.edf a185aec99ce5daf5230ad3af6075b45e2b6b2bf1
 DataTable\EventShip.edf af0dc83f836ba2bfaedb2ab8b57982fa195ec03b
-DataTable\Item.edf ef113dbcee00349fc408f4b2ea9b9b72fcdc0e82
+DataTable\Item.edf 944a3b9fc4365917f1a0e5c0bfd62edd315eb54f
 DataTable\ItemCash.edf de54fa0a359a31401d1761eb9fcd7030fd4c6458
 DataTable\ItemCombine.edf 33be3aa062773ffba30b88db77fa00c9c90bff55
 DataTable\ItemPremium.edf e5bdddf84c33e5225c81777d285f1c52fca07c13
